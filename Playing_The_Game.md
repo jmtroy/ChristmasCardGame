@@ -1,4 +1,4 @@
-*Playing the Christmas Card Trivia Game*
+**Playing the Christmas Card Trivia Game**
 
 *Objective: To collect as many matching Question and Answer Cards as you possibly can.*
 
