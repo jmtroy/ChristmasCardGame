@@ -2,7 +2,7 @@
 
 This game has 70 question cards and 70 answer cards that need to be printed.  The set of 140 cards are in the christmascard_pdfs folder of this GitHub repository.
 
-The first step is to download the repository to your computer.  The best way to do this is to use the **Clone or download** button on the right of the screen, and then press the **Download Zip** link.
+The first step is to download the repository to your computer.  The best way to do this is to use the **Clone or download** button on the right of the screen, and then press the **Download Zip** link. (see the image below)
 
 ![github-small](https://github.com/jmtroy/ChristmasCardTrivia/blob/master/download_image.png)
 
