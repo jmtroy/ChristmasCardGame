@@ -8,7 +8,7 @@ The first step is to download the repository to your computer.  The best way to 
 
 Once you have downloaded the materials you can print each of the 140 pdf files in the chistmascard_pdfs folder.  Each pdf file is meant to be printed double-sided on 8.5 x 11 inch paper in landscape mode.  Maybe print one first to be sure you have your printer setup correctly.
 
-After the cards are printed they are folded to make a christmas card.  Ideally the cards are printed on paper of heavy stock. If you have them printed at OfficeMax or Staples, they might even be able to score the paper where it is to be folded.  This makes for nice looking folds.
+After the cards are printed they are folded in half to make a christmas cards.  Ideally the cards are printed on paper of heavy stock. If you have them printed at OfficeMax or Staples, they might even be able to score the paper where it is to be folded.  This makes for nice looking folds.
 
 Then once the cards are printed you can set the all around the area where you wish to play the game with your friends and family.
 
