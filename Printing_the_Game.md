@@ -12,4 +12,4 @@ After the cards are printed they are folded in half to make a christmas cards.  
 
 Then once the cards are printed you can set the all around the area where you wish to play the game with your friends and family.
 
-Enjoy and Merry Christmas
+Enjoy and Merry Christmas !
