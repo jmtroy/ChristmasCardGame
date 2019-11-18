@@ -9,5 +9,6 @@ The game is part treasure hunt, because the cards are spread all around the hous
 
 The first step is to print the cards.  Here's a link to some instructions: https://github.com/jmtroy/ChristmasCardTrivia/blob/master/Printing_the_Game.md
 
-And here's a link on how to play the game: https://github.com/jmtroy/ChristmasCardTrivia/blob/master/Playing_The_Game.md
+And here's a link on how to play the game: 
+https://github.com/jmtroy/ChristmasCardTrivia/blob/master/Playing_The_Game.md
 
